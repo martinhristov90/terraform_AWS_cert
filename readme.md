@@ -1,0 +1,1 @@
+### Simple example, how to create Amazon issued certificate with CT enabled.
